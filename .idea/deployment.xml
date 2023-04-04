@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="AdderiFiber" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="AdderiFiber">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/cache" />
+            <excludedPath path="/third_party" />
+            <excludedPath path="/libraries" />
+            <excludedPath path="/helpers" />
+            <excludedPath path="/errors" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
